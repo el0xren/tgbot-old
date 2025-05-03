@@ -1,5 +1,8 @@
 <img align="right" width="260" height="260" alt="MissAhegaoBot" src="https://i.ibb.co/QfBPjQL/Avatars-Xyju6-Oujg-Jzzrbp9-bg6-Ny-A-t500x500.jpg">
 
+# Important Notice
+This repository has been moved to a new standalone repository: [el0xren/tgbot](https://github.com/el0xren/tg_bot).
+
 # MissAhegaoBot
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
